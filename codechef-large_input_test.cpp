@@ -1,7 +1,6 @@
 /*
 Input test for large number of inputs
 */
-
 #include<iostream>
 #include<stdio.h>
 using namespace std;
